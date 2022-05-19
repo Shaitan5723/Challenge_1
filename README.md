@@ -4,6 +4,7 @@ Bootcamp_wk1_challenge
 The purpose of this task is to refactor the code of a client's webpage to make it more accessible. The final product should resemble the initial product in a web browser; the only differences are made in the code. 
 
 Initial product:
+
 !initial product(https://github.com/Shaitan5723/Challenge_1/blob/main/assets/images/initial_prod.png)
 
 Code used: HTML & CSS
@@ -24,4 +25,5 @@ Cleaned up HTML and CSS code
   - combined repetative classes for cleaner CSS code
 
 Final Product:
-!final product(/assets/images/final_prod.png)
+  
+!final product(/assets/images/final_prod.png?raw=true)
