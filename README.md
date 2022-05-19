@@ -24,4 +24,4 @@ Cleaned up HTML and CSS code
   - combined repetative classes for cleaner CSS code
 
 Final Product:
-!final product(https://github.com//shaitan5723/challenge_1/assets/images/final_prod.png?raw=true)
+!final product(..assets/images/final_prod.png)
