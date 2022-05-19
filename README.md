@@ -24,4 +24,4 @@ Cleaned up HTML and CSS code
   - combined repetative classes for cleaner CSS code
 
 Final Product:
-!final product(..assets/images/final_prod.png)
+!final product(.assets/images/final_prod.png)
