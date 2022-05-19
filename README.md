@@ -5,7 +5,7 @@ The purpose of this task is to refactor the code of a client's webpage to make i
 
 Initial product:
 
-!initial product(assets/images/initial_prod.png)
+!initial product([assets/images/initial_prod.png](https://github.com/Shaitan5723/Challenge_1/blob/main/assets/images/initial_prod.png?raw=true))
 
 Code used: HTML & CSS
 
