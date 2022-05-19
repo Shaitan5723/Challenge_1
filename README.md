@@ -26,4 +26,4 @@ Cleaned up HTML and CSS code
 
 Final Product:
   
-!final product(/assets/images/final_prod.png?raw=true)
+!final product([assets/images/final_prod.png?raw=true](https://github.com/Shaitan5723/Challenge_1/blob/main/assets/images/final_prod.png?raw=true))
